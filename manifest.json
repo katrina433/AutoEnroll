@@ -2,7 +2,6 @@
     "manifest_version": 2,
     "name": "Auto Enroll",
     "version": "0.0.1",
-    "icons": ["cu_logo.png"],
     "description": "Click the extension button while on the Shopping Cart page. Refresh the page to stop auto enrolling",
     "content_scripts": [{
       "matches": [
